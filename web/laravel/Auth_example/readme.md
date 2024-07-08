@@ -46,4 +46,4 @@
 <img src="assets/Auth_snapshot (4).png" />
 <img src="assets/Auth_snapshot (5).png" />
 <img src="assets/Auth_snapshot (6).png" />
-<img src="assets/Auth_snapshot (7).png" />
+
