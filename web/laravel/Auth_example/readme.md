@@ -40,4 +40,4 @@
 
 ### SnapShots
 
-[1](assets/Auth_snapshot (1).png)
+![1](assets/Auth_snapshot (1).png)
