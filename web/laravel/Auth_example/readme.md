@@ -41,4 +41,4 @@
 ### SnapShots
 
 ![1](assets/Auth_snapshot(1).png)
-![Snapshot 1](Documentation/Pictures/Title.png)
+
