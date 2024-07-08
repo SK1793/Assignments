@@ -17,7 +17,7 @@
 
 ##Homepage
  <p>Contains Navigation bar and notification about user login status</p>
-##Login
+<b>Login
  <p>Contains Login Form , 3 Fields </p>
  <ul><P>Inputs:</P>
   <li>UserName</li>
