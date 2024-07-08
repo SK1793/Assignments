@@ -19,14 +19,14 @@
  <p>Contains Navigation bar and notification about user login status</p>
 ##Login
  <p>Contains Login Form , 3 Fields </p>
- <ul><P>Inoputs:</P>
+ <ul><P>Inputs:</P>
   <li>UserName</li>
   <li>UserPass</li>
   <li>Human Verification</li>  
  </ul>
 ##Register
  <p>Contains Registration Form with 7 Fields</p>
-  <ul><P>Inoputs:</P>
+  <ul><P>Inputs:</P>
   <li>UserName</li>
   <li>UserPass</li>
   <li>ConfirmPass</li>
