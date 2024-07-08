@@ -42,3 +42,4 @@
 
 ![1](assets/Auth_snapshot(1).png)
 
+<img src="assets/Auth_snapshot(1).png" />
