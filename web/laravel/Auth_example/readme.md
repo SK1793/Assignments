@@ -17,14 +17,14 @@
 
 ## Homepage
  <p>Contains Navigation bar and notification about user login status</p>
-<b>Login</b>
+## Login
  <p>Contains Login Form , 3 Fields </p>
  <ul><P>Inputs:</P>
   <li>UserName</li>
   <li>UserPass</li>
   <li>Human Verification</li>  
  </ul>
-<b>Register</b>
+## Register
  <p>Contains Registration Form with 7 Fields</p>
   <ul><P>Inputs:</P>
   <li>UserName</li>
@@ -35,7 +35,7 @@
   <li>UserDOB</li>
   <li>UserPhone</li>  
  </ul>
-<b>Profile</b>
+## Profile
  <p>Contains User Information Like Name,MailId,Phone Number,etc...</p>
 
 <h3> Functions </h3>
