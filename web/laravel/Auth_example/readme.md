@@ -65,7 +65,7 @@ then from letters are Date of Creation
 
 ### SnapShots
  <div>
-  <img src="assets/Auth_snapshot (1).png" /><br>
+  <img src="assets/Auth_snapshot (1).png" /><p></p>
   <img src="assets/Auth_snapshot (2).png" /><br>
   <img src="assets/Auth_snapshot (3).png" /><br>
   <img src="assets/Auth_snapshot (4).png" /><br>
