@@ -42,7 +42,7 @@
 </section>
 
 <h2> Functions </h2>
-<section style="border:2px solid red:border-radius:10px;">
+<section >
  
 <h3>Unique Code</h3>
  It's a 17 Letter Code
@@ -65,12 +65,12 @@ then from letters are Date of Creation
 
 ### SnapShots
  <ul>
-  <li style="border:2px solid red:border-radius:10px;"><img src="assets/Auth_snapshot (1).png" /></li>
-  <li><img src="assets/Auth_snapshot (2).png" /></li>
-  <li><img src="assets/Auth_snapshot (3).png" /></li>
-  <li><img src="assets/Auth_snapshot (4).png" /></li>
-  <li><img src="assets/Auth_snapshot (5).png" /></li>
-  <li><img src="assets/Auth_snapshot (6).png" /></li>
+  <li><img src="assets/Auth_snapshot (1).png" /></li><br>
+  <li><img src="assets/Auth_snapshot (2).png" /></li><br>
+  <li><img src="assets/Auth_snapshot (3).png" /></li><br>
+  <li><img src="assets/Auth_snapshot (4).png" /></li><br>
+  <li><img src="assets/Auth_snapshot (5).png" /></li><br>
+  <li><img src="assets/Auth_snapshot (6).png" /></li><br>
   
  </ul>
 
