@@ -61,8 +61,9 @@ then from letters are Date of Creation
 </div>
 </section>
 
-### SnapShots
 <section>
+
+### SnapShots
  
 <img src="assets/Auth_snapshot (1).png" />
 <img src="assets/Auth_snapshot (2).png" />
