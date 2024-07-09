@@ -1,4 +1,6 @@
 ### <b>Instructions</b>
+<section>
+ 
 ## setup-
 <ol>
 <li> Download the Archieve file and extract the folder using tools like WinRar </li>
@@ -37,6 +39,7 @@
  </ul>
 <h3> Profile </h3>
  <p>Contains User Information Like Name,MailId,Phone Number,etc...</p>
+</section>
 
 <h2> Functions </h2>
 <section style="border:2px solid red:border-radius:10px;">
@@ -59,7 +62,8 @@ then from letters are Date of Creation
 </section>
 
 ### SnapShots
-
+<section>
+ 
 <img src="assets/Auth_snapshot (1).png" />
 <img src="assets/Auth_snapshot (2).png" />
 <img src="assets/Auth_snapshot (3).png" />
@@ -67,3 +71,4 @@ then from letters are Date of Creation
 <img src="assets/Auth_snapshot (5).png" />
 <img src="assets/Auth_snapshot (6).png" />
 
+</section>
