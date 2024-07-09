@@ -50,6 +50,10 @@
 in which  are 
 then from letters are Date of Creation 
 <b>Format</b> :  ddmmyyyy , e.g. 09072024
+<h5>Snapshot</h5>
+<div>
+ <img src="assets/Auth_snapshot (7).png" />
+</div>
 
 ### SnapShots
 
