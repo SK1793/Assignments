@@ -15,7 +15,7 @@
  
 ### <b>Pages</b>
 
-##Homepage
+## Homepage
  <p>Contains Navigation bar and notification about user login status</p>
 <b>Login</b>
  <p>Contains Login Form , 3 Fields </p>
