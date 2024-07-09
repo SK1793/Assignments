@@ -13,18 +13,18 @@
 </ol>
 (P.S-if any issues check database is connected correctly and do "composer install" on cmd prompt once so that all necessary are installed )
  
-### <b>Pages</b>
+<h2> <b>Pages</h2>
 
-## Homepage
+<h3> Homepage</h3>
  <p>Contains Navigation bar and notification about user login status</p>
-## Login
+<h3>  Login</h3>
  <p>Contains Login Form , 3 Fields </p>
  <ul><P>Inputs:</P>
   <li>UserName</li>
   <li>UserPass</li>
   <li>Human Verification</li>  
  </ul>
-## Register
+<h3> Register</h3>
  <p>Contains Registration Form with 7 Fields</p>
   <ul><P>Inputs:</P>
   <li>UserName</li>
@@ -35,11 +35,11 @@
   <li>UserDOB</li>
   <li>UserPhone</li>  
  </ul>
-## Profile
+<h3> Profile </h3>
  <p>Contains User Information Like Name,MailId,Phone Number,etc...</p>
 
-<h3> Functions </h3>
-<h4>Unique Code</h4>
+<h2> Functions </h2>
+<h3>Unique Code</h3>
  It's a 17 Letter Code
 <ul>
  <li><b>First 3 letters</b> are "UID" e.g. UID**************</li>
