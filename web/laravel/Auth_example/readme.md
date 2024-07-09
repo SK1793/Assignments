@@ -66,11 +66,11 @@ then from letters are Date of Creation
 ### SnapShots
  <div>
   <img src="assets/Auth_snapshot (1).png" /><p></p>
-  <img src="assets/Auth_snapshot (2).png" /><br>
-  <img src="assets/Auth_snapshot (3).png" /><br>
-  <img src="assets/Auth_snapshot (4).png" /><br>
-  <img src="assets/Auth_snapshot (5).png" /><br>
-  <img src="assets/Auth_snapshot (6).png" /><br>
+  <img src="assets/Auth_snapshot (2).png" /><p></p>
+  <img src="assets/Auth_snapshot (3).png" /><p></p>
+  <img src="assets/Auth_snapshot (4).png" /><p></p>
+  <img src="assets/Auth_snapshot (5).png" /><p></p>
+  <img src="assets/Auth_snapshot (6).png" /><p></p>
   
  </div>
 
