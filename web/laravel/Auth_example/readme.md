@@ -64,14 +64,14 @@ then from letters are Date of Creation
 <section>
 
 ### SnapShots
- <ul>
-  <li><img src="assets/Auth_snapshot (1).png" /></li><br>
-  <li><img src="assets/Auth_snapshot (2).png" /></li><br>
-  <li><img src="assets/Auth_snapshot (3).png" /></li><br>
-  <li><img src="assets/Auth_snapshot (4).png" /></li><br>
-  <li><img src="assets/Auth_snapshot (5).png" /></li><br>
-  <li><img src="assets/Auth_snapshot (6).png" /></li><br>
+ <div>
+  <img src="assets/Auth_snapshot (1).png" /><br>
+  <img src="assets/Auth_snapshot (2).png" /><br>
+  <img src="assets/Auth_snapshot (3).png" /><br>
+  <img src="assets/Auth_snapshot (4).png" /><br>
+  <img src="assets/Auth_snapshot (5).png" /><br>
+  <img src="assets/Auth_snapshot (6).png" /><br>
   
- </ul>
+ </div>
 
 </section>
