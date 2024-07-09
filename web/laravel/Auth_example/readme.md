@@ -38,6 +38,19 @@
 <b>Profile</b>
  <p>Contains User Information Like Name,MailId,Phone Number,etc...</p>
 
+<h3> Functions </h3>
+<h4>Unique Code</h4>
+ It's a 17 Letter Code
+<ul>
+ <li><b>First 3 letters</b> are "UID" e.g. UID**************</li>
+ <li><b> 4th to 11th letters</b> are  Date of Creation <b>Format</b> :  ddmmyyyy , e.g. "09072024"</li>
+ <li><b>12th to 17th letters</b> are Time of Creation <b>Format</b> :hhiimm , e.g.  "144555"</li>
+ <li>Final Generated code will be like e.g. <b>UID09072024144555</b></li>
+</ul>
+in which  are 
+then from letters are Date of Creation 
+<b>Format</b> :  ddmmyyyy , e.g. 09072024
+
 ### SnapShots
 
 <img src="assets/Auth_snapshot (1).png" />
