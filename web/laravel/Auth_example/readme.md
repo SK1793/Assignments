@@ -39,7 +39,7 @@
  <p>Contains User Information Like Name,MailId,Phone Number,etc...</p>
 
 <h2> Functions </h2>
-<section style="border:2px solid orange:border-radius:10px;">
+<section style="border:2px solid red:border-radius:10px;">
  
 <h3>Unique Code</h3>
  It's a 17 Letter Code
